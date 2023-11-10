@@ -1,0 +1,15 @@
+{
+  "extends": "eslint-config-egg",
+  "root": true,
+  "rules": {
+    "indent": [
+      "error",
+      2
+    ],
+    "semi": "off",
+    "comma-dangle": "off",
+    "prefer-const": "off",
+    "arrow-parens": "off",
+    "quotes": "off",
+  }
+}
